@@ -5,4 +5,4 @@ This paper proposes a Bregman primal-dual algorithm with convex combination and 
 
 Numerical experiments on the color transfer and PET image reconstruction problems demonstrate the benefits of the proposed algorithms.
 
-The file 'Amat_256x256_77LORx288P_300FOV_4DW_32Ray.mat' is too large to upload. Please contant us at xkchang@lut.edu.cn, if needed.
+The file 'Amat_256x256_77LORx288P_300FOV_4DW_32Ray.mat' used in PET-BPDAc is too large to upload. Please contant us at xkchang@lut.edu.cn, if needed.
